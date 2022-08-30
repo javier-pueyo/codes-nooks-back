@@ -1,0 +1,512 @@
+{
+  "htmlCss__resources" : [
+    {
+      "id": 1,
+      "title": "Tutorial GRID 1",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 2,
+      "title": "Tutorial GRID 2",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 3,
+      "title": "Tutorial GRID 3",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    }
+  ],
+  "htmlCss__challenges" : [
+    {
+      "id": 1,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ],
+
+  "javascript__resources" : [
+    {
+      "id": 1,
+      "title": "Tutorial GRID 1",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 2,
+      "title": "Tutorial GRID 2",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 3,
+      "title": "Tutorial GRID 3",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    }
+  ],
+  "javascript__challenges" : [
+    {
+      "id": 1,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ],
+
+  "angular__resources" : [
+    {
+      "id": 1,
+      "title": "Tutorial GRID 1",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 2,
+      "title": "Tutorial GRID 2",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 3,
+      "title": "Tutorial GRID 3",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    }
+  ],
+  "angular__challenges" : [
+    {
+      "id": 1,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ],
+  "react__resources" : [
+    {
+      "id": 1,
+      "title": "Tutorial GRID 1",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 2,
+      "title": "Tutorial GRID 2",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    },
+    {
+      "id": 3,
+      "title": "Tutorial GRID 3",
+      "description":
+        "CSS Grid layout contiene funciones de diseño dirigidas a los desarrolladores de aplicaciones web. El CSS grid se puede utilizar para lograr muchos diseños diferentes. También se destaca por permitir dividir una página en áreas o regiones principales, por definir la relación en términos de tamaño, posición y capas entre partes de un control construido a partir de primitivas HTML.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "Grid CSS"
+    }
+  ],
+  "react__challenges" : [
+    {
+      "id": 1,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HomeMade App and Web Development",
+      "level": 1,
+      "description": "HomeMade is website for culinary in Jakarta City. We use web for founding food place nearly. Make easy for imigrant in Jakarta to explore food there. Keep exploring your favourite foods and enjoy!",
+      "requeriments": [
+        "Requisito 1",
+        "Requisito 2",
+        "Requisito 3",
+        "Requisito 4"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "doloresn@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ]
+}

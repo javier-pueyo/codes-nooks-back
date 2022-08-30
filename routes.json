@@ -1,0 +1,11 @@
+{
+    "/": "/",
+    "/htmlCss/resources": "/htmlCss__resources",
+    "/htmlCss/challenges": "/htmlCss__challenges",
+    "/javascript/resources": "/javascript__resources",
+    "/javascript/challenges": "/javascript__challenges",
+    "/angular/resources": "/angular__resources",
+    "/angular/challenges": "/angular__challenges",
+    "/react/resources": "/react__resources",
+    "/react/challenges": "/react__challenges"
+}

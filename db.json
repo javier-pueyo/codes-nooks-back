@@ -1,0 +1,912 @@
+{
+  "htmlcss__resources": [
+    {
+      "id": 1,
+      "title": "GRID Game",
+      "description": "Grid Garden is a game to practice all grid properties. You will be in charge of growing a carrot garden.",
+      "link": "http://cssgridgarden.com/#es",
+      "tag": "grid"
+    },
+    {
+      "id": 2,
+      "title": "FLEXBOX Game",
+      "description": "Flexbox Froggy is a game to practice all flexbox properties. You have to help the frogs reach their destination.",
+      "link": "https://flexboxfroggy.com/#es",
+      "tag": "flexbox"
+    },
+    {
+      "id": 3,
+      "title": "HTML Cheatsheet",
+      "description": "Cheatsheet with all HTML properties, atributes and tags. It also includes interactive tools to generate code snippets.",
+      "link": "https://htmlcheatsheet.com/",
+      "tag": "html"
+    },
+    {
+      "id": 4,
+      "title": "100 days CSS challenge",
+      "description": "Web with 100 CSS challenges. You can record your progress and see other users' solutions. All solutions uploaded in each challenge are also available.",
+      "link": "https://100dayscss.com/",
+      "tag": "css"
+    },
+    {
+      "id": 5,
+      "title": "CSS animations generator",
+      "description": "This tool allows you to generate any CSS animation in a intuitive way by selecting all its properties. Once the animation is created, you can copy the code to add it to your project.",
+      "link": "https://animista.net/play/basic/slide",
+      "tag": "css"
+    },
+    {
+      "id": 6,
+      "title": "8 simple CSS transitions",
+      "description": "Web with 8 CSS transitions to apply in divs or buttons. You can see the transition visualisation and copy the code into your project.",
+      "link": "https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/",
+      "tag": "css"
+    },
+    {
+      "id": 7,
+      "title": "CSS tools examples",
+      "description": "This web contains a guide with visual examples of all CSS tools. It explains them with illustrated and animated examples.",
+      "link": "https://cssreference.io/",
+      "tag": "css"
+    },
+    {
+      "id": 8,
+      "title": "CSS elements templates",
+      "description": "This tool contains visual templates of some HTML elements: buttons, checkboxes, toggle switches, cards, loaders and inputs. You can sign in with GitHub to upload your own templates.",
+      "link": "https://uiverse.io/",
+      "tag": "css"
+    },
+    {
+      "id": 9,
+      "title": "CSS speedrun",
+      "description": "This webs allows you to practice CSS selectors. In each level you have to write the selector to select the indicated item.",
+      "link": "https://css-speedrun.netlify.app/",
+      "tag": "css"
+    }
+  ],
+  "htmlcss__challenges": [
+    {
+      "id": 1,
+      "title": "Product preview card component",
+      "level": 1,
+      "description": "Your challenge is to build out a responsive product preview card component and get it looking as close to the design as possible.",
+      "requeriments": [
+        "The card has to contain: image, product name, product description, price and 'Add to cart' button",
+        "View the layout according to the screen size of your device"
+      ],
+      "date": "31/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 0
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fylo data storage component",
+      "level": 2,
+      "description": "Your challenge is to build out a data storage component.",
+      "requeriments": [
+        "Counter with available storage and storage used",
+        "View the layout according to the screen size of your device",
+        "Add loading animations with the data storage bar"
+      ],
+      "date": "25/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/"
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/"
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "QR code component",
+      "level": 1,
+      "description": "Your challenge is to build out this QR code component.",
+      "requeriments": [
+        "View the layout according to the screen size of your device",
+        "The component will have QR code image to link to destination page",
+        "Use a pre-processor for styles as Sass, Less or Stylus"
+      ],
+      "date": "23/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Order summary component",
+      "level": 4,
+      "description": "Your challenge is to build out a order summary card component.",
+      "requeriments": [
+        "The card will have all products added with teir prices and the total price",
+        "View the layout according to the screen size of your device",
+        "Use a pre-processor for styles as Sass, Less or Stylus"
+      ],
+      "date": "22/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Testimonials grid section",
+      "level": 2,
+      "description": "Your challenge is to build a testimonial grid section.",
+      "requeriments": [
+        "Use grid to display the cards",
+        "Each card will have an opinion about a product and the author's photo and name",
+        "View the layout according to the screen size of your device"
+      ],
+      "date": "14/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Rating component",
+      "level": 5,
+      "description": "Your challenge is to build a rating component.",
+      "requeriments": [
+        "Component will have information about a product, 5 buttons with score and a submit button",
+        "Hover effects for all buttons",
+        "View the layout according to the screen size of your device"
+      ],
+      "date": "12/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Clock app",
+      "level": 5,
+      "description": "Your challenge is to build out a clock application.",
+      "requeriments": [
+        "Component will have the hour, location, day of the week, day of the year and week number.",
+        "Use flexbox for components distribution.",
+        "View the layout according to the screen size of your device"
+      ],
+      "date": "10/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ],
+  "javascript__resources": [
+    {
+      "id": 1,
+      "title": "Javascript exercises",
+      "description": "Hundreds of exercises to improve programming logic in more than 20 languages, including Javascript.",
+      "link": "https://exercism.org/",
+      "tag": "logic"
+    },
+    {
+      "id": 2,
+      "title": "Public APIs for projects",
+      "description": "Hundreds of public APIs for your next project. There are some APIs types: REST, GraphQL, Kafka, SOAP, RapidQL...",
+      "link": "https://rapidapi.com/",
+      "tag": "api"
+    },
+    {
+      "id": 3,
+      "title": "Library for dates and times",
+      "description": "LUXON is a powerful, modern and friendly wrapper for Javascript dates and times. It includes native time zones and Intl support.",
+      "link": "https://moment.github.io/luxon/#/",
+      "tag": "library"
+    },
+    {
+      "id": 4,
+      "title": "Library for form validations",
+      "description": "VEST is a library that allows declarative and production-optimised form validation. Vest adopts the syntax and style of unit testing frameworks, so you can leverage the knowledge you already have to write your form validations.",
+      "link": "https://vestjs.dev/",
+      "tag": "library"
+    },
+    {
+      "id": 5,
+      "title": "Javascript design patterns",
+      "description": "This guide includes the main design patterns in javascript. It includes an extensive description of each with examples and code snippets.",
+      "link": "https://medium.com/@jmz12/patrones-de-dise%C3%B1o-en-js-43beab8f5756",
+      "tag": "guide"
+    },
+    {
+      "id": 6,
+      "title": "Course with 15 Javascript projects",
+      "description": "You will learn how to consume different REST APIS with JSON and Fetch API + Async / Await, one of the most important topics as a JavaScript developer. You will learn new concepts in ES6 such as template literals, arrow functions, generators, iterators, promises, async / await and more.",
+      "link": "https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/",
+      "tag": "projects"
+    },
+    {
+      "id": 7,
+      "title": "Javascript interview questions",
+      "description": "Repository to practice the most frequently asked questions in Javascript technical interviews. It includes a long list of questions with explanations.",
+      "link": "https://github.com/lydiahallie/javascript-questions",
+      "tag": "interviews"
+    }
+  ],
+  "javascript__challenges": [
+    {
+      "id": 1,
+      "title": "Tic Tac Toe",
+      "level": 3,
+      "description": "Your challenge is to build Tic Tac Toe classic game",
+      "requeriments": [
+        "Save the game state in the browser so that it’s preserved if the player refreshes their browser",
+        "See hover states for all interactive elements on the page",
+        "Play the game either solo vs the computer or multiplayer against another person.",
+        "View the optimal layout for the game depending on their device's screen size"
+      ],
+      "date": "10/7/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Calculator app",
+      "level": 4,
+      "description": "Your challenge is to build out a calculator app",
+      "requeriments": [
+        "Perform mathematical operations like addition, subtraction, multiplication, and division",
+        "Have their initial theme preference checked using prefers-color-scheme and have any additional changes saved in the browser",
+        "See the size of the elements adjust based on their device's screen size"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/"
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/"
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Rock, paper, scissors game",
+      "level": 4,
+      "description": "Your challenge is to build out this Rock, Paper, Scissors game.",
+      "requeriments": [
+        "Play Rock, Paper, Scissors against the computer",
+        "Maintain the state of the score after refreshing the browser",
+        "View the optimal layout for the game depending on their device's screen size"
+      ],
+      "date": "18/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "REST Countries API",
+      "level": 5,
+      "description": "Your challenge is integrating with the REST Countries API to pull country data and display it.",
+      "requeriments": [
+        "Show all countries from the API on the homepage",
+        "Search for a country using an input field",
+        "Filter countries by region",
+        "Click on a country to see more detailed information on a separate page"
+      ],
+      "date": "19/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mole Buster",
+      "level": 4,
+      "description": "Your challenge is to build the classic game 'Mole Buster'",
+      "requeriments": [
+        "Display the player's final score",
+        "Buttons to stop and restart the game",
+        "Input to choose the speed of the moles"
+      ],
+      "date": "12/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Expenses chart component",
+      "level": 2,
+      "description": "In this challenge, you'll create a bar chart component from scratch.",
+      "requeriments": [
+        "View the bar chart and hover over the individual bars to see the correct amounts for each day",
+        "See the current day's bar highlighted in a different colour to the other bars",
+        "See hover states for all interactive elements on the page"
+      ],
+      "date": "22/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Memory game",
+      "level": 4,
+      "description": "In this challenge, you'll create a the classic card matching game.",
+      "requeriments": [
+        "Play the Memory game either solo or multiplayer (up to 4 players)",
+        "Set the theme to use numbers or icons within the tiles",
+        "Choose to play on either a 6x6 or 4x4 grid",
+        "View the optimal layout for the game depending on their device's screen size"
+      ],
+      "date": "19/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Pomodoro app",
+      "level": 4,
+      "description": "Your challenge is to build out a Pomodoro timer app.",
+      "requeriments": [
+        "Set a Pomodoro timer and short & long break timers",
+        "Customize how long each timer runs for",
+        "See a circular progress bar that updates every minute and represents how far through their timer they are",
+        "Customize the appearance of the app with the ability to set preferences for colors and fonts"
+      ],
+      "date": "14/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ],
+  "angular__resources": [
+    {
+      "id": 1,
+      "title": "Real AngularJS application",
+      "description": "Now it's time to see the 'guts' of a working AngularJS application in the real world. The best example is the code developed by Peter Bacon Darwin and Pawel Kozlowski for the book Mastering Web Application with AngularJS . The source code is available on GitHub and we can see the directory structure, the use of modules, testing, communication with a RESTful API in the back-end, security, etc. It is a 100% MEAN application !:).",
+      "link": "https://github.com/angular-app/angular-app",
+      "tag": "example"
+    },
+    {
+      "id": 2,
+      "title": "Tutorial for your first Angular application",
+      "description": "This tutorial includes a template for your first Angular application. It has a step-by-step guide to building an Angular application using all the basic concepts.",
+      "link": "https://www.toptal.com/angular-js/un-tutorial-paso-a-paso-para-tu-primera-aplicacion-angularjs",
+      "tag": "course"
+    },
+    {
+      "id": 3,
+      "title": "Free Angular course",
+      "description": "In this course you will learn in a dynamic way all the necessary concepts to build your own Angular applications. It includes exercises and real application examples.",
+      "link": "https://www.youtube.com/watch?v=9kXZXXh0oNU&list=PLkmDVMKx2R1noT5yh-04Yzck3AytEcw30",
+      "tag": "course"
+    },
+    {
+      "id": 4,
+      "title": "NGXS library",
+      "description": "NGXS is a state management pattern + library for Angular. It acts as a single source of truth for your application's state, providing simple rules for predictable state mutations. NGXS is modeled after the CQRS pattern popularly implemented in libraries like Redux and NgRx but reduces boilerplate by using modern TypeScript features such as classes and decorators.",
+      "link": "https://www.ngxs.io/",
+      "tag": "library"
+    },
+    {
+      "id": 5,
+      "title": "RxWeb: reactive forms validators",
+      "description": "RxWeb Reactive Form Validators provides all types of complex, conditional, cross-field and dynamic validation on validator-based reactive forms, model-based reactive forms and template-driven forms.",
+      "link": "https://rxweb.io/",
+      "tag": "library"
+    }
+  ],
+  "angular__challenges": [
+    {
+      "id": 1,
+      "title": "Online shop",
+      "level": 3,
+      "description": "In this challenge, you have tou build a online shop with CRUD operations.",
+      "requeriments": [
+        "Minimum components: header, footer, home page and products page",
+        "Each product card will have title, image, price and a button to edit.",
+        "CRUD operations through a reactive form."
+      ],
+      "date": "31/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Booking system",
+      "level": 4,
+      "description": "In this challenge you have to build the booking system for a hairdresser.",
+      "requeriments": [
+        "User logging",
+        "The homepage will have a calendar (days and hours) to do a booking",
+        "Administrator user will have a management page to see all bookings",
+        "Each booking will be identified with the user name, date and time",
+        "Administrator user can edit and delete the bookings"
+      ],
+      "date": "25/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Movies ranking",
+      "level": 3,
+      "description": "In this challenge you have to build a movies ranking where users can insert films or vote.",
+      "requeriments": [
+        "User logging",
+        "Each movie card will have: title, image, abstract, gender, year, rating and button to score (only visible for registered users)",
+        "Non-registered users will only be able to view information about the film, including the rating",
+        "Registered users will be able to rate each film. Clicking the button will open a popup where you can select a rating from 1 to 5",
+        "The score of each film will be the average of all the votes"
+      ],
+      "date": "15/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Rick and Morty API",
+      "level": 2,
+      "description": "In this challenge you have read data form Rick and Morty API and display it dynamically.",
+      "requeriments": [
+        "Use API: https://rickandmortyapi.com/",
+        "Show a card for each character with its name and image",
+        "Hover effect on each card to show more information",
+        "Registered users will be able to rate each film. Clicking the button will open a popup where you can select a rating from 1 to 5",
+        "Character serach (by name)"
+      ],
+      "date": "11/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ],
+  "react__resources": [
+    {
+      "id": 1,
+      "title": "Official React repository",
+      "description": "In the Github repository, you can check out the React source code whenever you need it. If you want to stay informed about the current state of development, you can also take a look at issues, milestones and latest requests. If you're stuck, it might also be a good idea to take a look at the Troubleshooting Guide.",
+      "link": "https://github.com/facebook/react",
+      "tag": "guide"
+    },
+    {
+      "id": 2,
+      "title": "React Styleguidist",
+      "description": "React Styleguidist allows you to quickly generate a styleguide for your application. Simply type the component's README.md into MDX and the generator will take care of the rest.",
+      "link": "https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout",
+      "tag": "guide"
+    },
+    {
+      "id": 3,
+      "title": "React course with 15 projects",
+      "description": "In this course you will learn the basics of React including redux, hooks, application deployment, APIs consumption... You will also learn MongoDB notions and build 15 applications.",
+      "link": "https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/",
+      "tag": "course"
+    },
+    {
+      "id": 4,
+      "title": "Material UI library",
+      "description": "Material Design is the design standard that Google uses in its web and mobile applications and, for its Angular framework, they launched Angular Material at the time. Material UI is nothing more than the user interface library that seeks to apply Material Design on React. Therefore, we could say that it is the React equivalent of Angular Material and it has the same pros and cons.",
+      "link": "https://mui.com/",
+      "tag": "library"
+    },
+    {
+      "id": 5,
+      "title": "React testing library",
+      "description": "The React Testing Library has become the standard for testing React in conjunction with Jest. Developed by the famous React programmer Kent C. Dodds, its main advantage and why it is so widely used by the React community is because it is a library that encourages the use of good testing practices. That is, it does not focus on testing how the code is implemented, but on testing from a user perspective.",
+      "link": "https://testing-library.com/",
+      "tag": "library"
+    },
+    {
+      "id": 6,
+      "title": "React portfolio template",
+      "description": "Template to build your own portfolio with React. It includes all the necessary libraries, the project structure created, components and routes between them.",
+      "link": "https://reactjsexample.com/portfolio-template-for-developers-build-in-react/",
+      "tag": "template"
+    }
+  ],
+  "react__challenges": [
+    {
+      "id": 1,
+      "title": "Digital clock / countdown timer / stopwatch",
+      "level": 3,
+      "description": "In this challenge you will create an application that includes a digital clock, a countdown timer and a stopwatch through 3 different components using hooks.",
+      "requeriments": [
+        "3 components: one for each functionality",
+        "The digital clock component will get the local time information via the date.toLocaleTimeString() method. The value collected will be the value applied to clockState via setClockState every 1000 milliseconds",
+        "The countdown component is given a specific date and time and will calculate the time remaining until it reaches 0",
+        "The stopwatch component shall have functions to initialise, pause, resume and restart"
+      ],
+      "date": "30/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Units of measure calculator",
+      "level": 2,
+      "description": "In this challenge you have to build an app to convert length, weight and time measurements.",
+      "requeriments": [
+        "The main component will have an input to enter the quantity and two drop-down lists to select the unit of origin and the unit to convert"
+      ],
+      "date": "22/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Weather APP",
+      "level": 2,
+      "description": "In this challenge you have to build an application to consult the weather.",
+      "requeriments": [
+        "Use API OpenWeatherMap",
+        "The data displayed will be current temperature, minimum temperature, maximum temperature and relative humidity"
+      ],
+      "date": "11/07/2022",
+      "solutions": [
+        {
+          "user": "iloveflexbox@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 3
+        },
+        {
+          "user": "aitor_tilla@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 5
+        },
+        {
+          "user": "pepe_frog@mail.com",
+          "link": "https://vercel.com/",
+          "repository": "https://github.com/",
+          "rates": 4
+        }
+      ]
+    }
+  ]
+}
